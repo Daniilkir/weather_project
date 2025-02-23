@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Daniilkir/weather_project.git/static/css/main.b7273f9b.css",
-    "main.js": "/Daniilkir/weather_project.git/static/js/main.485c8580.js",
-    "static/media/hero.jpg": "/Daniilkir/weather_project.git/static/media/hero.74c1cd5f40e154b46e4a.jpg",
-    "static/media/pressureIcon.png": "/Daniilkir/weather_project.git/static/media/pressureIcon.6738a440949c9e966d1d.png",
-    "static/media/slick.svg": "/Daniilkir/weather_project.git/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Daniilkir/weather_project.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Daniilkir/weather_project.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Daniilkir/weather_project.git/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/Daniilkir/weather_project.git/index.html",
-    "main.b7273f9b.css.map": "/Daniilkir/weather_project.git/static/css/main.b7273f9b.css.map",
-    "main.485c8580.js.map": "/Daniilkir/weather_project.git/static/js/main.485c8580.js.map"
+    "main.css": "/weather_project/static/css/main.e3bf4a36.css",
+    "main.js": "/weather_project/static/js/main.9feaaad6.js",
+    "static/media/hero.jpg": "/weather_project/static/media/hero.74c1cd5f40e154b46e4a.jpg",
+    "static/media/pressureIcon.png": "/weather_project/static/media/pressureIcon.6738a440949c9e966d1d.png",
+    "static/media/slick.svg": "/weather_project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/weather_project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/weather_project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/weather_project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/weather_project/index.html",
+    "main.e3bf4a36.css.map": "/weather_project/static/css/main.e3bf4a36.css.map",
+    "main.9feaaad6.js.map": "/weather_project/static/js/main.9feaaad6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7273f9b.css",
-    "static/js/main.485c8580.js"
+    "static/css/main.e3bf4a36.css",
+    "static/js/main.9feaaad6.js"
   ]
 }
