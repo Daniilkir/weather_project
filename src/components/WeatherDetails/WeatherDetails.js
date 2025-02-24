@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 export const DetailsContainer = styled.section`
   padding: 75px, 0, 85px;
-  
+    width:100%;
+  margin:auto;
   & > div{
     display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -14,11 +15,8 @@ export const DetailsContainer = styled.section`
       grid-template-columns: repeat(1, 1fr);
 
     }}
-  @media (max-width: 1180px){
-   width:634px;
- }
+
    
-   margin:auto;
 
 `;
 
